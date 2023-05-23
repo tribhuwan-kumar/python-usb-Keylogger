@@ -24,4 +24,6 @@ Install usbac_setup_smof.exe
                              
 ```
     
-## There you go your USB keylogger is ready. Remove from pc and plug it again. It will store all keystrokes in log.txt file
+### There you go your USB keylogger is ready. Remove from pc and plug it again. It will store all keystrokes in log.txt file
+
+#### This project is only for educational purpose
