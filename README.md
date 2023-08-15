@@ -5,7 +5,7 @@
 
 ## Setup:
 
-To deploy this project you need a **USB drive**. 
+To setup this project you need a **USB drive**. 
 
 - **Git clone** this repository in any directory of **USB drive**. Make sure `keylogger.exe` file is in your **USB**
 
